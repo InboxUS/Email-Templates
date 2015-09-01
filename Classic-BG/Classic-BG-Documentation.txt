@@ -1,0 +1,22 @@
+Classic-BG Documentation
+——————————————————————————
+
+1. PRE-HEADER TEXT
+
+Pre header text is an extension of the subject line, so think about adding a line of text that’s meaningful and that gets users to click.
+
+2. UNSUB BUTTON
+
+Having an unsubscribe link at the top of the email reduces complaints. Each platform has their own unsubscribe token, read below:
+
+VOLO: http://%% RndStr % 10 %%.%%$_sdomain%%
+
+ScaleMail: %%unsubscribe_url%%
+
+3. BACKGROUND IMAGE WITH OVERLAY TEXT
+
+
+4. BODY COPY
+
+
+5. CTA BUTTON
