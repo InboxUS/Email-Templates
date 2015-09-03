@@ -1,5 +1,6 @@
 # Email-Templates
-Curated Templates built to increase delivery &amp; CTR
+Curated Templates Coded to Increase Delivery &amp; CTR
 
-<strong>How To Guide:</strong>
+<strong>How To Guide:</strong><br/>
+
 Classic.html
